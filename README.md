@@ -4,4 +4,4 @@ Meet the Smart-Ai Car – a Raspberry Pi and YOLO-powered car that effortlessly 
 
 ### References 
 
-[ Motor Control ](https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/)
+[ Motor Control ](https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/) [ Pi-Cam Setup ](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera) [ CV2 YOLO ](https://www.youtube.com/watch?v=GRtgLlwxpc4)
