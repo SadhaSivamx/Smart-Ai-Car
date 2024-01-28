@@ -10,4 +10,5 @@ Meet the Smart-Ai Car – a Raspberry Pi and YOLO-powered car that effortlessly 
 
 ### Output 
 
+
 ![Output](https://github.com/SadhaSivamx/Smart-Ai-Car/assets/106687593/d45f6c26-7714-4704-b3e9-4345e008bb9b)
